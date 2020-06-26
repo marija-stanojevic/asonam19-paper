@@ -13,6 +13,8 @@
 }
 ```
 
-**Datasets:**
-Public news datasets are published with prevoius studies as cited in the paper and can be found here: https://drive.google.com/drive/folders/0Bz8a_Dbh9Qhbfll6bVpmNUtUcFdjYmF2SEpmZUZUcVNiMUw1TWN6RDV3a0JHT3kxLVhVR2M.
-For the purpose of our research, as our model is trying to label a lot of unlabeled data using small amount of labeled data, we split labels from big parts of this dataset (see paper for more details). In order to reproduce our study without much effort, please start with datasets versions given here: LINK
+# Datasets:
+**News**: Public news datasets are published with prevoius studies as cited in the paper and can be found here: https://drive.google.com/drive/folders/0Bz8a_Dbh9Qhbfll6bVpmNUtUcFdjYmF2SEpmZUZUcVNiMUw1TWN6RDV3a0JHT3kxLVhVR2M.
+For the purpose of our research, as our model is trying to label a lot of unlabeled data using small amount of labeled data, we split labels from big parts of this dataset (see paper for more details). In order to reproduce our study without much effort, please start with datasets versions given here: **LINK**. You'll need to change the paths in the code. Also, since unlabeled and training files are updated with training, make sure to copy those files in separate folder for each training.
+
+**Twitter**: Unfortunately, those data are not ours to share, but we are sharing here dataset which contains links to the tweets that we used.
